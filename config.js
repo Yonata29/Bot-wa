@@ -17,17 +17,17 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.apikey = '_' // LOLHUMAN
+global.apikey = 'ews4v3gXZJzV3ZMNNkY6aFtk' // LOLHUMAN
 global.rosekey = '_' // ROSE
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'YoriMiku Botz'
-global.namaowner = 'Yori Hosting'
+global.namabot = 'NST BOT WHATSAPP'
+global.namaowner = 'Yonata Adi Saputra'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6282332208755']
-global.nomerowner = '6282332208755'
-global.premium = ['6282332208755']
+global.owner = ['6281532233180']
+global.nomerowner = '6281532233180'
+global.premium = ['6281532233180']
 
 //—————「 Set Wm 」—————//
 global.packname = 'By Yori Hosting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
